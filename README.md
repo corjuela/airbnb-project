@@ -7,7 +7,7 @@ The goal of this project is to gain a better understanding of how Airbnb prices 
 
 The data for this project is from the [Inside Airbnb](http://insideairbnb.com/get-the-data/) website. This website provides a variety of data about Airbnb listings, including price, location, amenities, and reviews.
 
-The data set we will use contains information about 20,000 Airbnb listings in Melbourne, Australia. The data includes the following features:
+The data set we will use contains information about 20K+ Airbnb listings in Melbourne, Australia. Some of the features include in the data are:
 
 Price: The nightly price of the listing
 Room type: The type of room being rented (e.g., private room, entire home)
